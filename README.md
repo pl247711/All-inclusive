@@ -20,7 +20,7 @@ Despite the fact that these biases are unconscious, they aren’t hardwired into
     Often, biases are formed because of generalizations based on limited or flawed information, so our mission is to bring awareness to the existence of these biases and to encourage people to seek more knowledge on what the biases are, when they form, and how to prevent them. We want to show how the world we live in is built upon a cycle that continuously perpetuates both implicit and explicit biases, but we can break that cycle through self-reflection, community action, and most importantly, collective empathy and understanding.
      Our website focuses on first, informing people about the types of conscious and unconscious bias and how they can affect major decisions and systems. We provide concrete ways for people to inwardly reflect on their own biases and stop their proliferation. Even further, we give solutions for communities and businesses to create diversity, equity, and inclusion on a larger scale––because despite all the good individual change can bring, these biases are deeply rooted in our society, so systemic change is one of the most effective ways to counter them. Thus, our website is key to educating those unaware of subconscious biases and creating a more self-aware society that includes the voices of even the most vulnerable. 
 
-[Click here to view our project video, containing a demonstration of our product](https://youtu.be/njj7fvrKY2g)
+[Click here to view our project video, containing a demonstration of our product](https://www.youtube.com/watch?v=B-qyOfYsBTg) 
 
 ### How to Use our Website
 
