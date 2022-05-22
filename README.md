@@ -5,9 +5,10 @@
 This was submitted to the High Tech Hacka 2.0 Hackathon.
 
 ### Purpose
-Sarah Dufays and Jennifer Chiou
 
 Our purpose is to amplify marginalized groups' voices by promoting diversity, equity, and inclusion for all communities and bringing attention to the biases that hinder equality throughout society.
+
+### The Problem and How We Solved it
 
 **Unconscious biases,** also known as implicit biases, are the underlying attitudes and stereotypes that affect our understanding, actions, and decisions in an unconscious manner. Residing deep in the subconscious, they are often unconsciously attributed to another person, or group of people, and affect how we perceive and engage with that person or group. These biases are activated involuntarily and without any awareness or intentional control, and they are different from known biases that individuals may choose to conceal for the purposes of social or political correctness. Some examples are sexism, colorism, ageism, ableism, and conformity bias.
 
@@ -20,3 +21,6 @@ Despite the fact that these biases are unconscious, they aren’t hardwired into
 Our website focuses on first, informing people about the types of conscious and unconscious bias and how they can affect major decisions and systems. We provide concrete ways for people to inwardly reflect on their own biases and stop their proliferation. Even further, we give solutions for communities and businesses to create diversity, equity, and inclusion on a larger scale––because despite all the good individual change can bring, these biases are deeply rooted in our society, so systemic change is one of the most effective ways to counter them. Thus, our website is key to educating those unaware of subconscious biases and creating a more self-aware society that includes the voices of even the most vulnerable. 
 
 [Click here to view our project video, containing a demonstration of our product](https://youtu.be/njj7fvrKY2g)
+
+### How to Use our Website
+
