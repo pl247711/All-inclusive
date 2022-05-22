@@ -1,10 +1,13 @@
- #"ALl INCLUSIVE"
-## HighTech Havks
+ # "All Inclusive"
+## HighTech Hacks
+"All Inclusive" was created by Jennifer Chiou and Sarah Dufays in May of 2022.
+
+This was submitted to the High Tech Hacka 2.0 Hackathon.
+
+### Purpose
 Sarah Dufays and Jennifer Chiou
 
-This was submitted to the BusiHacks2021 Hackathon.
 Our purpose is to amplify marginalized groups' voices by promoting diversity, equity, and inclusion for all communities and bringing attention to the biases that hinder equality throughout society.
-
 
 **Unconscious biases,** also known as implicit biases, are the underlying attitudes and stereotypes that affect our understanding, actions, and decisions in an unconscious manner. Residing deep in the subconscious, they are often unconsciously attributed to another person, or group of people, and affect how we perceive and engage with that person or group. These biases are activated involuntarily and without any awareness or intentional control, and they are different from known biases that individuals may choose to conceal for the purposes of social or political correctness. Some examples are sexism, colorism, ageism, ableism, and conformity bias.
 
