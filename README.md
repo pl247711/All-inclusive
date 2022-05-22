@@ -34,5 +34,6 @@ Our website focuses on first, informing people about the types of conscious and 
       \                                                                         /
        |-----------------------------------------------------------------------|
        
-       OR [Click here to view our website]((https://highteckhacks.sarahdufays.repl.co/))
+### For an easier Option
+[Click here to view our project video, containing a demonstration of our product](https://highteckhacks.sarahdufays.repl.co/)
 
