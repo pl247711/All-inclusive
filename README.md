@@ -34,6 +34,14 @@ Despite the fact that these biases are unconscious, they aren’t hardwired into
       \                                                                         /
        |-----------------------------------------------------------------------|
        
-### For an easier Option
+### For an Easier Option
 [Click here to view our website](https://highteckhacks.sarahdufays.repl.co/)
+
+### To navigate our website
+* Click on our Home Page to learn more about our goals and to learn about the true significance of implicit biases
+* Click on our About Page to learn more about our mission and how we encourage the improvement of each Diversity, Equity, and Inclusion in our website.
+* Click on our Identifying and Reflecting on Unconscious Bias page to find out which of these biases you hold and ways to avoid exemplifying each of them.
+* Click on our How to Help Your Community Page to access  various resources that help you make your community more inclusive and equitable. 
+* Click on our How to Help Your Business Page to read about various toolkits for businesses/organizations to implement, as well as some resources to promote inclusivity–– to improve DEI within professional spaces
+* Click on our Diverse Resources Page to see recommendations for first-person narratives by marginalized people to help diversify your viewpoint. You can also access educational materials to help counter bias in children.
 
