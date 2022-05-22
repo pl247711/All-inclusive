@@ -35,5 +35,5 @@ Despite the fact that these biases are unconscious, they aren’t hardwired into
        |-----------------------------------------------------------------------|
        
 ### For an easier Option
-[Click here to view our project video, containing a demonstration of our product](https://highteckhacks.sarahdufays.repl.co/)
+[Click here to view our website](https://highteckhacks.sarahdufays.repl.co/)
 
