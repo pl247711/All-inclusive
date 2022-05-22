@@ -6,7 +6,7 @@ This was submitted to the High Tech Hacks 2.0 Hackathon.
 
 ### Purpose
 
-Our purpose is to amplify marginalized groups' voices by promoting diversity, equity, and inclusion for all communities and bringing attention to the biases that hinder equality throughout society.
+All-Inclusive’s purpose is to promote diversity, equity, and inclusion in both communities and businesses/organizations in order to bring attention to the problems of marginalized communities. We want to increase awareness about not only explicit biases, but specifically the lesser-known unconscious biases that bleed into all aspects of life
 
 ### The Problem and How We Solved it
 
