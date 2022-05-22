@@ -24,3 +24,15 @@ Our website focuses on first, informing people about the types of conscious and 
 
 ### How to Use our Website
 
+       |-----------------------------------------------------------------------|
+       /     1. Download the the folders and files                             \
+      /          within this Repo as a .zip                                     \
+     /       2. Uncompress the zipped folder                                     \   
+    /        3. Open the uncompressed folder                                      \
+    \        4. Click the 'index.html' file                                       /
+     \       5. Enjoy!                                                           /
+      \                                                                         /
+       |-----------------------------------------------------------------------|
+       
+       OR [Click here to view our website]((https://highteckhacks.sarahdufays.repl.co/))
+
