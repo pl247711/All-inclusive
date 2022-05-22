@@ -6,7 +6,7 @@ This was submitted to the High Tech Hacks 2.0 Hackathon.
 
 ### Purpose
 
-All-Inclusive’s purpose is to promote diversity, equity, and inclusion in both communities and businesses/organizations in order to bring attention to the problems of marginalized communities. We want to increase awareness about not only explicit biases, but specifically the lesser-known unconscious biases that bleed into all aspects of life
+All-Inclusive’s purpose is to promote diversity, equity, and inclusion in both communities and businesses/organizations in order to bring attention to the problems of marginalized communities. We want to increase awareness about not only explicit biases, but specifically the lesser-known unconscious biases that bleed into all aspects of life.
 
 ### The Problem and How We Solved it
 
@@ -38,10 +38,10 @@ Despite the fact that these biases are unconscious, they aren’t hardwired into
 [Click here to view our website](https://highteckhacks.sarahdufays.repl.co/)
 
 ### To navigate our website
-* Click on our Home Page to learn more about our goals and to learn about the true significance of implicit biases
+* Click on our Home Page to learn more about our goals and to learn about the true significance of implicit biases.
 * Click on our About Page to learn more about our mission and how we encourage the improvement of each Diversity, Equity, and Inclusion in our website.
 * Click on our Identifying and Reflecting on Unconscious Bias page to find out which of these biases you hold and ways to avoid exemplifying each of them.
 * Click on our How to Help Your Community Page to access  various resources that help you make your community more inclusive and equitable. 
-* Click on our How to Help Your Business Page to read about various toolkits for businesses/organizations to implement, as well as some resources to promote inclusivity–– to improve DEI within professional spaces
+* Click on our How to Help Your Business Page to read about various toolkits for businesses/organizations to implement, as well as some resources to promote inclusivity–– to improve DEI within professional spaces.
 * Click on our Diverse Resources Page to see recommendations for first-person narratives by marginalized people to help diversify your viewpoint. You can also access educational materials to help counter bias in children.
 
