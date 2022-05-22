@@ -2,7 +2,7 @@
 ## HighTech Hacks
 "All Inclusive" was created by Jennifer Chiou and Sarah Dufays in May of 2022.
 
-This was submitted to the High Tech Hacka 2.0 Hackathon.
+This was submitted to the High Tech Hacks 2.0 Hackathon.
 
 ### Purpose
 
